@@ -8,3 +8,10 @@
 7. echo ".idea" >> .gitignore
 7.1 echo "venv" >> .gitignore
 7.2 echo "*__pycache__*" >> .gitignore
+8. echo "FLASK_APP=wsgi.py" >> .flaskenv
+
+
+REST API
+1. Client-server
+2. Stateless
+3. Cache 
